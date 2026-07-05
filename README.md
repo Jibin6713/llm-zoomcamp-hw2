@@ -1,5 +1,6 @@
 # Answers for hw3
 
+
 1) Question 1: Context Engineering
 
 AI Copilot has access to current Kestra plugin documentation.
